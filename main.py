@@ -1,7 +1,7 @@
 import streamlit as st
 from langchain.chat_models import ChatOpenAI
 
-chat_model = ChatOpenAI(openai_api_key="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")
+chat_model = ChatOpenAI(openai_api_key='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')
 
 st.title("한국데이터사이언티스트협회 노코딩 분석툴 검색")
 
